@@ -31,3 +31,8 @@ The first iteration of user side code could be a CLI in Go or Rust.
 ## Create static website using Hugo
 
 Using Hugo and Github Pages, host a static Hugo site to post a resume, kind of a blog type site.
+
+## Other Projects
+
+Here's a repo with project ideas in it. <br>
+https://github.com/karan/Projects
